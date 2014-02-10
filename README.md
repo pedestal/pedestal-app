@@ -1,4 +1,4 @@
-# Pedestal [![Build Status](https://travis-ci.org/pedestal/pedestal.png)](https://travis-ci.org/pedestal/pedestal)
+# Pedestal App
 
 Pedestal is a web application framework written in Clojure that aims to bring
 both the language and its principles (Simplicity, Power and Focus) to client and
