@@ -18,6 +18,7 @@ Pedestal application. This will automatically pull templates from
 ```bash
 # To create a new client-side application:
 lein new pedestal-app the-next-big-thing
+```
 
 See [documentation](#documentation) for information on Pedestal concepts and
 advice on getting started.
