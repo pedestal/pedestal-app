@@ -32,11 +32,11 @@ applications and improving general ease of use.
 
 ### Documentation
 
-* [Pedestal documentation](http://pedestal.io/documentation/): overview of
+* [Pedestal documentation](https://github.com/pedestal/docs/tree/app-snapshot/documentation: overview of
   Pedestal concepts and advice on getting started.
 * API Docs: generate literate-programming-style API docs by following the
   "What about API Documentation?" instructions in the
-  [Pedestal Overview](http://pedestal.io/documentation/).
+  [Pedestal Overview](https://github.com/pedestal/docs/blob/app-snapshot/documentation/application-overview.md).
 
 ### Supported Platforms
 
@@ -51,7 +51,6 @@ diagnosing or correcting Windows issues.
 
 ### Find out more
 
-* Visit [our website](http://pedestal.io/)
 * Follow [@pedestal_team on Twitter](http://twitter.com/pedestal_team)
 * Subscribe to [pedestal-users](https://groups.google.com/d/forum/pedestal-users)
   and [pedestal-dev](https://groups.google.com/d/forum/pedestal-dev)
@@ -65,8 +64,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details on contributing to Pedestal.
 To install Pedestal library components in your local Maven repository run
 `lein sub install` from a local checkout of this repository.
 
-**WARNING: Until 0.3.0 is released, this repository contains code/changes
-that *does not match* resources like the [docs](http://pedestal.io/documentation/),
+**WARNING: This repository contains code/changes
+that *does not match* resources like the [docs](https://github.com/pedestal/docs/tree/app-snapshot/documentation),
 [tutorial](https://github.com/pedestal/app-tutorial/) or otherwise.**
 
 ---
