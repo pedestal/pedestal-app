@@ -32,7 +32,9 @@ applications and improving general ease of use.
 
 ### Documentation
 
-* [Pedestal documentation](https://github.com/pedestal/docs/tree/app-snapshot/documentation: overview of
+In the future, the documentation will be moved into this repository.
+
+* [Pedestal documentation](https://github.com/pedestal/docs/tree/app-snapshot/documentation) overview of
   Pedestal concepts and advice on getting started.
 * API Docs: generate literate-programming-style API docs by following the
   "What about API Documentation?" instructions in the
