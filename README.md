@@ -1,11 +1,19 @@
-# Pedestal App
+# Pedestal-app
 
 Pedestal is a web application framework written in Clojure that aims to bring
 both the language and its principles (Simplicity, Power and Focus) to client and
 server-side development.  This project is client-side specific.
 
+---
+**Status of Pedestal-app:**
 
-**Please see the [status update](https://groups.google.com/forum/#!topic/pedestal-users/jODwmJUIUcg) before continuing**
+This repository is an *archival copy* of the original pedestal-app project. See the Google Group's message ["So what's happening with Pedestal 0.3.0?"](https://groups.google.com/forum/#!topic/pedestal-users/jODwmJUIUcg) for more information.
+
+**We are not actively developing or accepting new features, but we will accept bug fixes submitted by the community.**
+
+If you're interested in carrying pedestal-app forward, we encourage you to fork this repository and make any changes you see fit. Once you've got something, [share it with the rest of the group](https://groups.google.com/forum/#!topic/pedestal-users/)–many folks are interested in the future of pedestal-app's ideas.
+
+---
 
 ## Getting started
 
