@@ -1,28 +1,6 @@
-# Contributing to Pedestal
+# Contributing to Pedestal-app
 
-Wow, thanks for your interest in helping out with Pedestal. Let this document
-serve as your guide.
-
-### Looking for work?
-
-If you're looking for a task to work on, check out the
-[primed label](../../issues?labels=primed) in our issues.
-
-Less defined tasks will be marked with the
-[discuss label](../../issues?labels=discuss). Jump in here if you want to be
-a part of something big.
-
-### New Features
-
-Pedestal is the thinking persons framework, so every contribution starts with
-some *deeeep* thought. Finished?
-
-Alright, your next step is to start a discussion.
-
-Create an [issue](https://github.com/pedestal/pedestal/issues/new) to start
-a conversation. Tell us what you're trying to accomplish and how you think you
-might do it. If all is well, we'll probably give you the :thumbsup: to
-start developing.
+**Notice**: This repository is an archival copy of the pedestal-app project. We are currently only accepting bug patches, **no new features will be accepted or developed.**
 
 ### Bugs
 
@@ -46,15 +24,6 @@ reproduce--you know we're going to ask. A good starting point is the following:
 
 Even better, include a link to a gist or repository where we can jump straight
 to the problem.
-
-### Tests
-
-We love well-tested code. All of our code is tested on [Travis
-CI](https://travis-ci.org/pedestal/pedestal) and so too will any pull requests
-you submit. It's super-cool and automatic!
-
-But lets be serious, we won't accept pull requests unless they're either well
-tested or sufficiently trivial (think docstring changes).
 
 ## Contributor's Agreement
 
